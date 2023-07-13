@@ -60,9 +60,3 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/victordracxler/victordracxler/output/snake.svg" alt="Snake animation" />
-
-###
