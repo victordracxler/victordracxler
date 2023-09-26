@@ -49,11 +49,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
 </div>
 
-###
 
-<p align="left">Hello World!!</p>
-
-###
 ###
 
 <div align="left">
